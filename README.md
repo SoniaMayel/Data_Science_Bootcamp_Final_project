@@ -3,3 +3,6 @@ This repository contains the final project I completed as part of my Bootcamp. T
 
 
 Get insight into our challenges [here](<datascience_bootcamp_Final_project/Final project/Dr.-Greenthumb-Decoding-Nature-s-Needs>)!
+
+
+Here is where you can find my [certificate](<https://www.linkedin.com/feed/update/urn:li:activity:7199749410291884032/>).
